@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Bioskop" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryBioskop</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBioskop</item>
+        <item name="colorAccent">@color/colorAccentBioskop</item>
+    </style>
+
+    <style name="Wisata" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryWisata</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkWisata</item>
+        <item name="colorAccent">@color/colorAccentWisata</item>
+    </style>
+
+    <style name="Kuliner" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryKuliner</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkKuliner</item>
+        <item name="colorAccent">@color/colorAccentKuliner</item>
+    </style>
+
+
+
+</resources>

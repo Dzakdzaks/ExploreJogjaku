@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#672929</color>
+    <color name="colorPrimaryDark">#521f1f</color>
+    <color name="colorAccent">#672929</color>
+
+    <color name="colorPrimaryBioskop">#ded35f</color>
+    <color name="colorPrimaryDarkBioskop">#afa44b</color>
+    <color name="colorAccentBioskop">#ded35f</color>
+
+    <color name="colorPrimaryWisata">#fb954a</color>
+    <color name="colorPrimaryDarkWisata">#e1653f</color>
+    <color name="colorAccentWisata">#fb954a</color>
+
+    <color name="colorPrimaryKuliner">#fc926a</color>
+    <color name="colorPrimaryDarkKuliner">#d07350</color>
+    <color name="colorAccentKuliner">#fc926a</color>
+
+
+    <color name="colorWhite">#fff</color>
+</resources>
