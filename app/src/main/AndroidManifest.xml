@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MenuActivity"
+        <activity
+            android:name=".MenuActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +29,11 @@
         <activity
             android:name=".BioskopActivity"
             android:theme="@style/Bioskop" />
-        <activity android:name=".OlehActivity"></activity>
+        <activity android:name=".OlehActivity" />
+        <activity
+            android:name=".Details.DetailWisata"
+            android:label="@string/title_activity_detail_wisata"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
